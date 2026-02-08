@@ -112,7 +112,7 @@ Hi, I'm Shanmili from Cagayan de Oro, Philippines, a 3rd Year BSIT student at US
 
 <div align="center">
 
-### 🎓 Student Performance Monitoring System
+### 🎓 AI Driven Student Performance Monitoring System
 *Capstone Project | Team Leader*
 
 A cost-efficient performance tracking system for **Lapasan Baptist Christian Academy**  
