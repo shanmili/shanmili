@@ -23,7 +23,7 @@ Hi, I'm Shanmili from Cagayan de Oro, Philippines, a 3rd Year BSIT student at US
 ### 🎯 Current Focus
 - 📱 Leading development of **Student Performance Monitoring System** for Lapasan Baptist Christian Academy
 - 🌱 Mastering mobile & web development with modern tech stacks
-- 🤝 Collaborating on meaningful tech solutions that make a difference
+- 💜 Collaborating on meaningful tech solutions that make a difference
 
 </td>
 <td width="30%">
