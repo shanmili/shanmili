@@ -62,6 +62,13 @@ Hi, I’m Shanmili from Cagayan de Oro, Philippines, a 3rd Year BSIT student at 
 ## 💻 Tech Stack
 
 <div align="center">
+### Machine Learning Tools
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
 
 ### Mobile Development
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -71,6 +78,7 @@ Hi, I’m Shanmili from Cagayan de Oro, Philippines, a 3rd Year BSIT student at 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### Backend & Database
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
@@ -99,12 +107,12 @@ Hi, I’m Shanmili from Cagayan de Oro, Philippines, a 3rd Year BSIT student at 
 <div align="center">
 
 ### 🎓 Student Performance Monitoring System
-*Capstone Project | Team Leader & Developer*
+*Capstone Project | Team Leader*
 
 A cost-efficient performance tracking system for **Lapasan Baptist Christian Academy**  
 Empowering parents and teachers to monitor student progress effectively
 
-**Built with:** `React Native` `Expo Go` `Firebase/Supabase`
+**Built with:** `React Native` `Expo Go` `Firebase/Supabase` `React Js`
 
 </div>
 
@@ -135,7 +143,7 @@ Empowering parents and teachers to monitor student progress effectively
 ## 📬 Let's Connect
 
 [![GitHub](https://img.shields.io/badge/GitHub-shanmili-D8BFD8?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shanmili)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-DDA0DD?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-DDA0DD?style=for-the-badge&logo=gmail&logoColor=white)](mailto:degala.shanmaeleigh@gmail.com)
 
 <br>
 
