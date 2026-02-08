@@ -2,8 +2,7 @@
 
 <div align="center">
   
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=D8BFD8&center=true&vCenter=true&width=435&lines=3rd+Year+BSIT+Student+%F0%9F%93%9A;Mobile++Web+Development+Enthusiast+%F0%9F%93%B1;Team+Leader+%26+Creator+%E2%9C%A8;Fueled+by+Coffee+%26+Stories+%E2%98%95)
-
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=D8BFD8&center=true&vCenter=true&width=600&lines=3rd+Year+BSIT+Student+%F0%9F%93%9A;Mobile+%26+Web+Development+Enthusiast+%F0%9F%93%B1;Team+Leader+%26+Creator+%E2%9C%A8;Fueled+by+Coffee+%26+Stories+%E2%98%95)
 </div>
 
 ## 👩‍💻 About Me
