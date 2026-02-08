@@ -120,6 +120,8 @@ Empowering parents and teachers to monitor student progress effectively
 
 **Built with:** `React Native` `Expo Go` `Firebase/Supabase` `React Js`
 
+[![View Repository](https://img.shields.io/badge/View_Repository-D8BFD8?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shanmili/LBCA-Dashboard-Screen)
+
 </div>
 
 <br>
