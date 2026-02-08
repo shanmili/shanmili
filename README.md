@@ -17,7 +17,7 @@
 <table>
 <tr>
 <td width="70%">
-
+```yaml
 name: Shanmili
 location: Cagayan de Oro, Philippines
 education: 3rd Year BSIT @ USTP
@@ -143,7 +143,7 @@ Empowering parents and teachers to monitor student progress effectively
 ## 📬 Let's Connect
 
 [![GitHub](https://img.shields.io/badge/GitHub-shanmili-D8BFD8?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shanmili)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-DDA0DD?style=for-the-badge&logo=gmail&logoColor=white)](mailto:degala.shanmaeleigh@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-DDA0DD?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
 <br>
 
@@ -153,6 +153,6 @@ Empowering parents and teachers to monitor student progress effectively
 
 ### 💜 *"Creativity, code, and a touch of Kuromi magic"* 💜
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,25,26,27,28&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=baabc9,7a5c8d,c7a3d4,9d74b0,d6a7df&height=100&section=footer" width="100%"/>
 
 </div>
