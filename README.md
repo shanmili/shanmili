@@ -1,7 +1,5 @@
 <div align="center">
 
-![Shanmili Header](./assets/shanmili-header.png)
-
 # ✨ Shanmili ✨
 
 ### 💜 *Where Creativity Meets Technology* 💜
@@ -13,10 +11,6 @@
 </div>
 
 ## 🌸 About Me
-
-<table>
-<tr>
-<td width="70%">
 ```yaml
 name: Shanmili
 location: Cagayan de Oro, Philippines
@@ -33,15 +27,6 @@ aesthetic: Kuromi + Pastel Purple Everything 💜
 - 🌱 Mastering mobile & web development with modern tech stacks
 - 🤝 Collaborating on meaningful tech solutions that make a difference
 
-</td>
-<td width="30%">
-
-<img src="./assets/kuromi-side.png" alt="Kuromi" width="100%"/>
-
-</td>
-</tr>
-</table>
-
 <br>
 
 <div align="center">
@@ -54,14 +39,6 @@ aesthetic: Kuromi + Pastel Purple Everything 💜
 <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=shanmili&theme=material-palenight&hide_border=true&background=1a1b27&ring=D8BFD8&fire=DDA0DD&currStreakLabel=E6E6FA"/>
 
 <img src="https://github-profile-trophy.vercel.app/?username=shanmili&theme=onestar&no-frame=true&no-bg=true&row=1&column=7" width="90%"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-![Kuromi Divider](./assets/kuromi-divider.png)
 
 </div>
 
@@ -94,14 +71,6 @@ aesthetic: Kuromi + Pastel Purple Everything 💜
 
 <br>
 
-<div align="center">
-
-![Kuromi Divider](./assets/kuromi-divider.png)
-
-</div>
-
-<br>
-
 ## 🚀 Featured Project
 
 <div align="center">
@@ -113,14 +82,6 @@ A cost-efficient performance tracking system for **Lapasan Baptist Christian Aca
 Empowering parents and teachers to monitor student progress effectively
 
 **Built with:** `React Native` `Expo Go` `Firebase/Supabase`
-
-</div>
-
-<br>
-
-<div align="center">
-
-![Kuromi Divider](./assets/kuromi-divider.png)
 
 </div>
 
