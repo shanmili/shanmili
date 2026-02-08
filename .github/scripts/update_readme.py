@@ -1,7 +1,7 @@
 import requests
 import re
 
-USERNAME = "YOUR_USERNAME"  # Replace with your username
+USERNAME = "shanmili"
 README_PATH = "README.md"
 
 def fetch_top_repos():
@@ -12,7 +12,7 @@ def fetch_top_repos():
     
     # Filter out forks, sort by stars
     my_repos = [r for r in repos if not r['fork']]
-    top_repos = sorted(my_repos, key=lambda x: x['stargazers_count'], reverse=True)[:5]
+    top_repos = sorted(my_repos, key=lambda x: x['stargazers_count'], reverse=True)[:6]
     
     return top_repos
 
@@ -31,7 +31,7 @@ def generate_projects_markdown(repos):
 
 def update_readme(projects_md):
     """Update README with new projects"""
-    with open(README_PATH, 'r') as f:
+    with open(README_PATH, 'r', encoding='utf-8') as f:
         content = f.read()
     
     # Replace content between markers
@@ -40,7 +40,7 @@ def update_readme(projects_md):
     
     new_content = re.sub(pattern, replacement, content, flags=re.DOTALL)
     
-    with open(README_PATH, 'w') as f:
+    with open(README_PATH, 'w', encoding='utf-8') as f:
         f.write(new_content)
     
     print("✅ README updated successfully!")
