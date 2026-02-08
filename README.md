@@ -1,119 +1,203 @@
+<!-- HEADER SECTION -->
+
 <div align="center">
+<img src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Dwaving%26color%3Dgradient%26customColorList%3D2a0a38,4a1c5e,8a4f9e,d8b4fe%26height%3D250%26section%3Dheader%26text%3DShanmili%26fontSize%3D80%26fontColor%3Dffffff%26fontAlignY%3D35%26desc%3D%25E2%259C%25A8%2520BSIT%2520Student%2520%257C%2520Mobile%2520Dev%2520%257C%2520Kuromi%2520Enthusiast%2520%25E2%259C%25A8%26descSize%3D20%26descAlignY%3D60" width="100%" alt="Header" />
 
-# ✨ Shanmili ✨
-
-### 💜 *Where Creativity Meets Technology* 💜
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=D8BFD8&center=true&vCenter=true&width=600&lines=BSIT+Student+%F0%9F%93%9A+USTP+CDO;Mobile+%26+Web+Developer+%F0%9F%92%BB;Team+Leader+%26+Creator+%E2%9C%A8;Kuromi+Lover+%F0%9F%92%9C+Purple+Enthusiast)
-
----
-
+<a href="https://www.google.com/search?q=https://git.io/typing-svg">
+<img src="https://www.google.com/search?q=https://readme-typing-svg.herokuapp.com%3Ffont%3DFira%2BCode%26weight%3D600%26size%3D22%26pause%3D1000%26color%3DD8B4FE%26center%3Dtrue%26vCenter%3Dtrue%26width%3D600%26lines%3DBuilding%2BMobile%2B%2526%2BWeb%2BSolutions%2B%25F0%259F%2592%25BB%3BTeam%2BLeader%2B%2540%2BUSTP%2BCDO%2B%25F0%259F%258E%2593%3BCrafting%2BCode%2B%2526%2BCrochet%2B%25F0%259F%25A7%25B6%3BPowered%2Bby%2BCoffee%2B%2526%2BPurple%2BMagic%2B%25E2%2598%2595" alt="Typing SVG" />
+</a>
 </div>
 
-## 🌸 About Me
-```yaml
-name: Shanmili
-location: Cagayan de Oro, Philippines
-education: 3rd Year BSIT @ USTP
-role: Team Leader & Developer
-passion: Building user-friendly applications that solve real problems
-currently_learning: [React Native, Expo Go, Firebase, Supabase]
-hobbies: [Reading web novels, Collecting POP MART, Crocheting, Coffee]
-aesthetic: Kuromi + Pastel Purple Everything 💜
-```
-
-### 🎯 Current Focus
-- 📱 Leading development of **Student Performance Monitoring System** for Lapasan Baptist Christian Academy
-- 🌱 Mastering mobile & web development with modern tech stacks
-- 🤝 Collaborating on meaningful tech solutions that make a difference
-
-<br>
+<!-- ABOUT ME "TERMINAL" STYLE -->
 
 <div align="center">
+<table align="center" style="border: none;">
+<tr>
+<td align="center" width="100%">
+<img src="https://www.google.com/search?q=https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm91Ynh5Ymw0a2g2Z3Z6Z3Z6Z3Z6Z3Z6Z3Z6Z3Z6Z3Z6dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/MDJlD4i5X5Y6e1Z52s/giphy.gif" width="80px" alt="Kuromi Icon">
 
-## 📊 GitHub Analytics
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=shanmili&show_icons=true&theme=material-palenight&hide_border=true&count_private=true&bg_color=1a1b27&title_color=D8BFD8&icon_color=DDA0DD&text_color=E6E6FA"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shanmili&layout=compact&theme=material-palenight&hide_border=true&bg_color=1a1b27&title_color=D8BFD8&text_color=E6E6FA&langs_count=8"/>
 
-<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=shanmili&theme=material-palenight&hide_border=true&background=1a1b27&ring=D8BFD8&fire=DDA0DD&currStreakLabel=E6E6FA"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=shanmili&theme=onestar&no-frame=true&no-bg=true&row=1&column=7" width="90%"/>
 
+
+
+<b>👩‍💻 developer_profile.yaml</b>
+</td>
+</tr>
+<tr>
+<td>
+<pre>
+<code><span style="color: #D8B4FE">const</span> <span style="color: #F8F8F2">shanmili</span> <span style="color: #FF79C6">=</span> {
+<span style="color: #8BE9FD">role</span>: <span style="color: #F1FA8C">"Team Leader & Developer"</span>,
+<span style="color: #8BE9FD">education</span>: <span style="color: #F1FA8C">"3rd Year BSIT @ USTP"</span>,
+<span style="color: #8BE9FD">location</span>: <span style="color: #F1FA8C">"Cagayan de Oro, PH 🇵🇭"</span>,
+<span style="color: #8BE9FD">current_focus</span>: [
+<span style="color: #FF79C6">"Student Performance Monitoring System"</span>,
+<span style="color: #FF79C6">"Mastering React Native & Expo"</span>
+],
+<span style="color: #8BE9FD">fun_facts</span>: {
+<span style="color: #BD93F9">coffee</span>: <span style="color: #50FA7B">true</span>,
+<span style="color: #BD93F9">aesthetic</span>: <span style="color: #F1FA8C">"Kuromi + Pastel Purple"</span>,
+<span style="color: #BD93F9">hobby</span>: <span style="color: #F1FA8C">"Owner of Shmili & Threads 🧶"</span>
+}
+};</code>
+</pre>
+</td>
+</tr>
+</table>
 </div>
 
-<br>
+<!-- STATS SECTION -->
 
-## 💻 Tech Stack
-
+<h2 align="center">📊 GitHub Analytics</h2>
 <div align="center">
-
-### Mobile Development
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
-
-### Web Development
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### Backend & Database
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### Tools & Design
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
+<table style="border: none;">
+<tr>
+<td>
+<img height="180em" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dshanmili%26show_icons%3Dtrue%26hide_border%3Dtrue%26title_color%3DD8B4FE%26icon_color%3DFF79C6%26text_color%3Dffffff%26bg_color%3D161618%26count_private%3Dtrue" alt="Stats"/>
+</td>
+<td>
+<img height="180em" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dshanmili%26layout%3Dcompact%26hide_border%3Dtrue%26title_color%3DD8B4FE%26text_color%3Dffffff%26bg_color%3D161618%26langs_count%3D6" alt="Languages"/>
+</td>
+</tr>
+</table>
+<img width="85%" src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3Dshanmili%26hide_border%3Dtrue%26background%3D161618%26ring%3DD8B4FE%26fire%3DFF79C6%26currStreakLabel%3DD8B4FE%26sideNums%3Dffffff%26dates%3Dffffff" alt="Streak"/>
 </div>
 
-<br>
+<!-- TECH STACK -->
 
-## 🚀 Featured Project
-
+<h2 align="center">💻 Tech Stack & Tools</h2>
 <div align="center">
+<table align="center">
+<tr>
+<td align="center" width="90">
+<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dreact" width="45" height="45" alt="React Native" />
 
-### 🎓 Student Performance Monitoring System
-*Capstone Project | Team Leader & Developer*
 
-A cost-efficient performance tracking system for **Lapasan Baptist Christian Academy**  
-Empowering parents and teachers to monitor student progress effectively
 
-**Built with:** `React Native` `Expo Go` `Firebase/Supabase`
 
+React Native
+</td>
+<td align="center" width="90">
+<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dexpo" width="45" height="45" alt="Expo" />
+
+
+
+
+Expo
+</td>
+<td align="center" width="90">
+<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Djs" width="45" height="45" alt="JS" />
+
+
+
+
+JavaScript
+</td>
+<td align="center" width="90">
+<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dhtml" width="45" height="45" alt="HTML" />
+
+
+
+
+HTML5
+</td>
+<td align="center" width="90">
+<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dcss" width="45" height="45" alt="CSS" />
+
+
+
+
+CSS3
+</td>
+</tr>
+<tr>
+<td align="center" width="90">
+<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dfirebase" width="45" height="45" alt="Firebase" />
+
+
+
+
+Firebase
+</td>
+<td align="center" width="90">
+<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dsupabase" width="45" height="45" alt="Supabase" />
+
+
+
+
+Supabase
+</td>
+<td align="center" width="90">
+<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dmysql" width="45" height="45" alt="MySQL" />
+
+
+
+
+MySQL
+</td>
+<td align="center" width="90">
+<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dfigma" width="45" height="45" alt="Figma" />
+
+
+
+
+Figma
+</td>
+<td align="center" width="90">
+<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dvscode" width="45" height="45" alt="VS Code" />
+
+
+
+
+VS Code
+</td>
+</tr>
+</table>
 </div>
 
-<br>
+<!-- FEATURED PROJECT -->
 
-## 💜 Beyond Code
-
+<h2 align="center">🚀 Featured Capstone</h2>
 <div align="center">
+<table align="center">
+<tr>
+<td width="60%" align="center">
+<h3>🎓 Student Performance Monitoring System</h3>
+<h4>Lapasan Baptist Christian Academy</h4>
+<p>
+A cost-efficient mobile solution empowering parents and teachers to track student progress in real-time.
+</p>
 
-| 📚 Reading | 🧸 Collecting | 🧶 Creating | ☕ Fueling |
-|:---:|:---:|:---:|:---:|
-| Web Novels<br>*Villainess Series* | POP MART<br>*Skullpanda* | Crochet Business<br>*Shmili & Threads* | Coffee & Stories<br>*Always* |
 
+
+
+
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/React_Native-20232A%3Fstyle%3Dflat-square%26logo%3Dreact%26logoColor%3D61DAFB%26color%3D2a0a38" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Firebase-FFCA28%3Fstyle%3Dflat-square%26logo%3Dfirebase%26logoColor%3Dblack%26color%3DFFCA28" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Expo_Go-000020%3Fstyle%3Dflat-square%26logo%3Dexpo%26logoColor%3Dwhite%26color%3Dblack" />
+</td>
+</tr>
+</table>
 </div>
 
-<br>
+<!-- FOOTER -->
 
 <div align="center">
+<h3>📬 Let's Connect</h3>
+<p>
+<a href="https://github.com/shanmili">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/GitHub-181717%3Fstyle%3Dfor-the-badge%26logo%3Dgithub%26logoColor%3Dwhite%26color%3D2a0a38" />
+</a>
+<a href="mailto:your.email@example.com">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Email-D14836%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite%26color%3D4a1c5e" />
+</a>
+</p>
 
-## 📬 Let's Connect
 
-[![GitHub](https://img.shields.io/badge/GitHub-shanmili-D8BFD8?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shanmili)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-DDA0DD?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
-<br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=shanmili&color=D8BFD8&style=for-the-badge&label=Profile+Views)
 
-<br>
-
-### 💜 *"Creativity, code, and a touch of Kuromi magic"* 💜
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,13,14,15,16&height=100&section=footer" width="100%"/>
-
+<img src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Dwaving%26color%3Dgradient%26customColorList%3Dd8b4fe,8a4f9e,4a1c5e,2a0a38%26height%3D100%26section%3Dfooter" width="100%" />
 </div>
