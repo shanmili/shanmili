@@ -1,6 +1,6 @@
 <div align="center">
 
-![Shanmili Header](./shanmili-header.png)
+![Shanmili Header](./assets/shanmili-header.png)
 
 # ✨ Shanmili ✨
 
@@ -36,7 +36,7 @@ aesthetic: Kuromi + Pastel Purple Everything 💜
 </td>
 <td width="30%">
 
-<img src="./kuromi-side.png" alt="Kuromi" width="100%"/>
+<img src="./assets/kuromi-side.png" alt="Kuromi" width="100%"/>
 
 </td>
 </tr>
@@ -61,7 +61,7 @@ aesthetic: Kuromi + Pastel Purple Everything 💜
 
 <div align="center">
 
-![Kuromi Divider](./kuromi-divider.png)
+![Kuromi Divider](./assets/kuromi-divider.png)
 
 </div>
 
@@ -96,7 +96,7 @@ aesthetic: Kuromi + Pastel Purple Everything 💜
 
 <div align="center">
 
-![Kuromi Divider](./kuromi-divider.png)
+![Kuromi Divider](./assets/kuromi-divider.png)
 
 </div>
 
@@ -120,7 +120,7 @@ Empowering parents and teachers to monitor student progress effectively
 
 <div align="center">
 
-![Kuromi Divider](./kuromi-divider.png)
+![Kuromi Divider](./assets/kuromi-divider.png)
 
 </div>
 
