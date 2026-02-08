@@ -2,7 +2,7 @@
 
 <div align="center">
   
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=D8BFD8&center=true&vCenter=true&width=435&lines=3rd+Year+BSIT+Student+%F0%9F%93%9A;Mobile+Development+Enthusiast+%F0%9F%93%B1;Team+Leader+%26+Creator+%E2%9C%A8;Fueled+by+Coffee+%26+Stories+%E2%98%95)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=D8BFD8&center=true&vCenter=true&width=435&lines=3rd+Year+BSIT+Student+%F0%9F%93%9A;Mobile+and+Web+Development+Enthusiast+%F0%9F%93%B1;Team+Leader+%26+Creator+%E2%9C%A8;Fueled+by+Coffee+%26+Stories+%E2%98%95)
 
 </div>
 
@@ -20,11 +20,19 @@ I'm a 3rd Year BSIT Student at the **University of Science and Technology of Sou
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shanmili&show_icons=true&theme=material-palenight&hide_border=true&count_private=true&bg_color=1a1b27&title_color=D8BFD8&icon_color=DDA0DD&text_color=E6E6FA)
+<img src="https://github-readme-stats.vercel.app/api?username=shanmili&show_icons=true&theme=material-palenight&hide_border=true&count_private=true&bg_color=1a1b27&title_color=D8BFD8&icon_color=DDA0DD&text_color=E6E6FA" alt="GitHub Stats" />
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shanmili&theme=material-palenight&hide_border=true&background=1a1b27&ring=D8BFD8&fire=DDA0DD&currStreakLabel=E6E6FA)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shanmili&theme=material-palenight&hide_border=true&background=1a1b27&ring=D8BFD8&fire=DDA0DD&currStreakLabel=E6E6FA" alt="GitHub Streak" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shanmili&layout=compact&theme=material-palenight&hide_border=true&bg_color=1a1b27&title_color=D8BFD8&text_color=E6E6FA)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shanmili&layout=compact&theme=material-palenight&hide_border=true&bg_color=1a1b27&title_color=D8BFD8&text_color=E6E6FA" alt="Top Languages" />
+
+</div>
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  
+<img src="https://github-profile-trophy.vercel.app/?username=shanmili&theme=onestar&no-frame=true&row=1&column=7" alt="Trophies" />
 
 </div>
 
