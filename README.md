@@ -18,14 +18,7 @@
 <tr>
 <td width="70%">
 
-name: Shanmili
-location: Cagayan de Oro, Philippines
-education: 3rd Year BSIT @ USTP
-role: Team Leader & Developer
-passion: Building user-friendly applications that solve real problems
-currently_learning: [React Native, Expo Go, Firebase, Supabase]
-hobbies: [Reading web novels, Collecting POP MART, Crocheting, Coffee]
-aesthetic: Kuromi + Pastel Purple Everything 💜
+Hi, I’m Shanmili from Cagayan de Oro, Philippines, a 3rd Year BSIT student at USTP and a Team Leader & Developer passionate about building user-friendly applications and systems that solve real problems. I’m currently learning React Native, Expo Go, Firebase, Supabase, and Machine Learning
 
 ### 🎯 Current Focus
 - 📱 Leading development of **Student Performance Monitoring System** for Lapasan Baptist Christian Academy
