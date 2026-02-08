@@ -3,27 +3,32 @@
 <div align="center">
   
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=D8BFD8&center=true&vCenter=true&width=600&lines=3rd+Year+BSIT+Student+%F0%9F%93%9A;Mobile+%26+Web+Development+Enthusiast+%F0%9F%93%B1;Team+Leader+%26+Creator+%E2%9C%A8;Fueled+by+Coffee+%26+Stories+%E2%98%95;I+love+Kuromi+%26+Purple+Shades+%F0%9F%92%9C)
+
 </div>
 
 ## 👩‍💻 About Me
 
-I'm a 3rd Year BSIT Student at the **University of Science and Technology of Southern Philippines (USTP)** in Cagayan de Oro.
-I'm passionate about mobile and web development, building user-friendly applications, and creating systems that solve real-world problems.
+I'm a 3rd Year BSIT Student at the **University of Science and Technology of Southern Philippines (USTP)** in Cagayan de Oro. I'm passionate about mobile and web development, building user-friendly applications, and creating systems that solve real-world problems.
 
 - 🔭 I'm currently working on my **Capstone Project**: A Student Performance Monitoring System
 - 🌱 I'm currently learning **React Native, Expo Go**, and exploring **Firebase** and **Supabase** for backend integration
 - 🤝 I enjoy leading teams, managing project deliverables, and collaborating on meaningful tech solutions
 - 🎨 I love combining creativity with technology through writing, design, and clean UI aesthetics
+- 💜 Fun fact: I'm a Kuromi enthusiast and collector of POP MART figures (especially Skullpanda series!)
 
 ## 📊 GitHub Stats
 
 <div align="center">
   
-<img src="https://github-readme-stats.vercel.app/api?username=shanmili&show_icons=true&theme=material-palenight&hide_border=true&count_private=true" alt="GitHub Stats" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shanmili&show_icons=true&theme=material-palenight&hide_border=true&count_private=true&bg_color=1a1b27&title_color=D8BFD8&icon_color=DDA0DD&text_color=E6E6FA" alt="GitHub Stats"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shanmili&theme=material-palenight&hide_border=true" alt="GitHub Streak" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shanmili&layout=compact&theme=material-palenight&hide_border=true&bg_color=1a1b27&title_color=D8BFD8&text_color=E6E6FA" alt="Top Languages"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shanmili&layout=compact&theme=material-palenight&hide_border=true" alt="Top Languages" />
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shanmili&theme=material-palenight&hide_border=true&background=1a1b27&ring=D8BFD8&fire=DDA0DD&currStreakLabel=E6E6FA" alt="GitHub Streak"/>
 
 </div>
 
@@ -31,15 +36,19 @@ I'm passionate about mobile and web development, building user-friendly applicat
 
 <div align="center">
   
-<img src="https://github-profile-trophy.vercel.app/?username=shanmili&theme=onestar&no-frame=true&row=1&column=7" alt="Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=shanmili&theme=onestar&no-frame=true&row=1&column=7" alt="Trophies"/>
 
 </div>
 
 ## 🚀 Featured Projects
 
-<!-- AUTO-GENERATED-CONTENT:START (PROJECTS) -->
-- **[Student Performance Monitoring System](https://github.com/shanmili/LBCA-Dashboard-Screen)** - A cost-efficient system for Lapasan Baptist Christian Academy to help parents and teachers monitor student performance ⭐ 0
-<!-- AUTO-GENERATED-CONTENT:END -->
+### 🎓 Student Performance Monitoring System (Capstone)
+**Role:** Team Leader & Developer  
+**Description:** A cost-efficient system designed for Lapasan Baptist Christian Academy to help parents and teachers monitor student performance effectively.
+
+**Tech Stack:** React Native, Expo Go, Firebase/Supabase
+
+---
 
 ## 💻 Tech Stack
 
@@ -57,7 +66,7 @@ I'm passionate about mobile and web development, building user-friendly applicat
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### Tools
+### Tools & Platforms
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
@@ -65,14 +74,14 @@ I'm passionate about mobile and web development, building user-friendly applicat
 ## ⚡ Fun Facts
 
 - 📚 Avid reader of web novels (favorites: *The Villainess Lives Twice* and *The Villainess Turns The Hourglass*)
+- 🧸 POP MART collector, especially Skullpanda series
 - 🧶 Owner of **Shmili & Threads**, a small crochet business
 - 💜 Kuromi enthusiast and lover of all shades of pastel purple
-- ☕ Fueled by hot chocolate, good stories, and creative ideas
+- ☕ Fueled by coffee, good stories, and creative ideas
 
 ## 📫 Connect With Me
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:degala.shanmaeleigh@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![GitHub](https://img.shields.io/badge/GitHub-shanmili-181717?style=for-the-badge&logo=github)](https://github.com/shanmili)
 
 ---
 
