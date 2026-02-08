@@ -1,6 +1,6 @@
 <div align="center">
 
-![Shanmili Header](./assets/shanmili-header.png)
+![Shanmili Header](./assets/shanmili-header2.png)
 
 # ✨ Shanmili ✨
 
@@ -17,7 +17,7 @@
 <table>
 <tr>
 <td width="70%">
-```yaml
+
 name: Shanmili
 location: Cagayan de Oro, Philippines
 education: 3rd Year BSIT @ USTP
