@@ -36,7 +36,7 @@ aesthetic: Kuromi + Pastel Purple Everything 💜
 </td>
 <td width="30%">
 
-<img src="./assets/kuromi-side.png" alt="Kuromi" width="100%"/>
+<img src="./assets/kuromi-side.jpg" alt="Kuromi" width="100%"/>
 
 </td>
 </tr>
@@ -143,7 +143,7 @@ Empowering parents and teachers to monitor student progress effectively
 ## 📬 Let's Connect
 
 [![GitHub](https://img.shields.io/badge/GitHub-shanmili-D8BFD8?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shanmili)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-DDA0DD?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-DDA0DD?style=for-the-badge&logo=gmail&logoColor=white)](mailto:degala.shanmaeleigh@gmail.com)
 
 <br>
 
