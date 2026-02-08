@@ -17,7 +17,7 @@
 <table>
 <tr>
 <td width="70%">
-```yaml
+
 name: Shanmili
 location: Cagayan de Oro, Philippines
 education: 3rd Year BSIT @ USTP
@@ -26,7 +26,6 @@ passion: Building user-friendly applications that solve real problems
 currently_learning: [React Native, Expo Go, Firebase, Supabase]
 hobbies: [Reading web novels, Collecting POP MART, Crocheting, Coffee]
 aesthetic: Kuromi + Pastel Purple Everything 💜
-```
 
 ### 🎯 Current Focus
 - 📱 Leading development of **Student Performance Monitoring System** for Lapasan Baptist Christian Academy
