@@ -4,7 +4,7 @@
 
 # ✨ Shanmili ✨
 
-### 💜 *Where Creativity Meets Technology* 💜
+### 🪻 *Where Creativity Meets Technology* 🪻
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=D8BFD8&center=true&vCenter=true&width=600&lines=BSIT+Student+%F0%9F%93%9A+USTP+CDO;Mobile+%26+Web+Developer+%F0%9F%92%BB;Team+Leader+%26+Creator+%E2%9C%A8;Kuromi+Lover+%F0%9F%92%9C+Purple+Enthusiast)
 
@@ -12,7 +12,7 @@
 
 </div>
 
-## 🌸 About Me
+## 🪻 About Me
 
 <table>
 <tr>
@@ -134,7 +134,7 @@ Empowering parents and teachers to monitor student progress effectively
 
 <br>
 
-## 💜 Beyond Code
+## 🪻 Beyond Code
 
 <div align="center">
 
@@ -159,7 +159,7 @@ Empowering parents and teachers to monitor student progress effectively
 
 <br>
 
-### 💜 *"Creativity, code, and a touch of Kuromi magic"* 💜
+### 🪻 *"Creativity, code, and a touch of Kuromi magic"* 🪻
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=baabc9,7a5c8d,c7a3d4,9d74b0,d6a7df&height=100&section=footer" width="100%"/>
 
