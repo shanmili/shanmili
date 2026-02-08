@@ -7,23 +7,23 @@
 
 ## 👩‍💻 About Me
 
-I'm a 3rd Year BSIT Student at the **University of Science and Technology of Southern Philippines (USTP)** in Cagayan de Oro. I'm passionate about mobile development, building user-friendly applications, and creating systems that solve real-world problems.
+I'm a 3rd Year BSIT Student at the **University of Science and Technology of Southern Philippines (USTP)** in Cagayan de Oro.
+I'm passionate about mobile and web development, building user-friendly applications, and creating systems that solve real-world problems.
 
 - 🔭 I'm currently working on my **Capstone Project**: A Student Performance Monitoring System
 - 🌱 I'm currently learning **React Native, Expo Go**, and exploring **Firebase** and **Supabase** for backend integration
 - 🤝 I enjoy leading teams, managing project deliverables, and collaborating on meaningful tech solutions
 - 🎨 I love combining creativity with technology through writing, design, and clean UI aesthetics
-- 💜 Fun fact: I'm a Kuromi enthusiast and collector 
 
 ## 📊 GitHub Stats
 
 <div align="center">
   
-<img src="https://github-readme-stats.vercel.app/api?username=shanmili&show_icons=true&theme=material-palenight&hide_border=true&count_private=true&bg_color=1a1b27&title_color=D8BFD8&icon_color=DDA0DD&text_color=E6E6FA" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=shanmili&show_icons=true&theme=material-palenight&hide_border=true&count_private=true" alt="GitHub Stats" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shanmili&theme=material-palenight&hide_border=true&background=1a1b27&ring=D8BFD8&fire=DDA0DD&currStreakLabel=E6E6FA" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shanmili&theme=material-palenight&hide_border=true" alt="GitHub Streak" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shanmili&layout=compact&theme=material-palenight&hide_border=true&bg_color=1a1b27&title_color=D8BFD8&text_color=E6E6FA" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shanmili&layout=compact&theme=material-palenight&hide_border=true" alt="Top Languages" />
 
 </div>
 
@@ -32,14 +32,6 @@ I'm a 3rd Year BSIT Student at the **University of Science and Technology of Sou
 <div align="center">
   
 <img src="https://github-profile-trophy.vercel.app/?username=shanmili&theme=onestar&no-frame=true&row=1&column=7" alt="Trophies" />
-
-</div>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  
-![Trophies](https://github-profile-trophy.vercel.app/?username=shanmili&theme=onestar&no-frame=true&row=1&column=7&margin-w=15&margin-h=15)
 
 </div>
 
